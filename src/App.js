@@ -18,7 +18,7 @@ import ResetPassword from './Pages/resetPassword';
 import SingleUser from './Pages/SingleUser';
 import AdminItems from './Pages/AdminItems';
 import About from './Pages/About';
-axios.defaults.baseURL = "food-server-teal.vercel.app/"
+axios.defaults.baseURL = "food-server-kyf747nch-vaqsis-projects.vercel.app"
 axios.defaults.withCredentials = true
 function App() {
   return (
